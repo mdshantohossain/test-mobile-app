@@ -1,0 +1,16 @@
+export default {
+    bookmark: require('@/assets/icons/bookmark.png'),
+    eyeHide: require('@/assets/icons/eye-hide.png'),
+    eye: require('@/assets/icons/eye.png'),
+    home: require('@/assets/icons/home.png'),
+    layout: require('@/assets/icons/layout.png'),
+    leftArrow: require('@/assets/icons/left-arrow.png'),
+    menu: require('@/assets/icons/menu.png'),   
+    play: require('@/assets/icons/play.png'),   
+    plus: require('@/assets/icons/plus.png'),   
+    profile: require('@/assets/icons/profile.png'),
+    rightArrow: require('@/assets/icons/right-arrow.png'),
+    search: require('@/assets/icons/search.png'),
+    upload: require('@/assets/icons/upload.png'),   
+    cancel: require('@/assets/icons/cancel.png'),   
+}
